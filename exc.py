@@ -27,3 +27,5 @@ def longest_subarray(ARRAY):
         RESULT = LIST*[1]+LIST*[0]
 
     return RESULT
+
+print(longest_subarray(ARRAY))
